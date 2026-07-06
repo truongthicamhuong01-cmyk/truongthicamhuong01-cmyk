@@ -4,23 +4,25 @@
 
 ### Phạm Trương Anh Vỹ
 
-💻 Middle School Student • Web Developer • Vietnam
+🎓 Middle School Student • 💻 Web Developer • 🇻🇳 Vietnam
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;JavaScript+%7C+Node.js+%7C+Firebase;Learning+C%2B%2B+and+Competitive+Programming;Building+EduKids" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;JavaScript+%7C+Node.js+%7C+Firebase;Learning+C%2B%2B+and+Competitive+Programming;Building+EduKids" />
 
-![](https://komarev.com/ghpvc/?username=DixPahm&style=for-the-badge)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=truongthicamhuong01-cmyk&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 Middle School Student from Vietnam
 - 💻 Passionate about Web Development
-- 📚 Learning Competitive Programming with C++
-- 🌱 Currently learning modern web technologies
+- 🌱 Currently learning **C++**, **JavaScript**, **Node.js**, and **Firebase**
 - 🚀 Creator of **EduKids**, a gamified learning platform for primary school students
+- 📚 Improving my Competitive Programming and Full-Stack Development skills
 
 ---
 
@@ -28,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,firebase,git,github,vscode,cpp&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,firebase,git,github,vscode,cpp&theme=dark"/>
 
 </div>
 
@@ -38,9 +40,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DixPahm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=truongthicamhuong01-cmyk&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixPahm&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongthicamhuong01-cmyk&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -50,25 +52,35 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DixPahm&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=truongthicamhuong01-cmyk&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌟 Featured Project
+## 📈 Activity Graph
 
-### 🎓 EduKids
+<div align="center">
 
-A gamified learning platform designed to make learning fun for primary school students.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=truongthicamhuong01-cmyk&theme=tokyo-night&hide_border=true"/>
 
-**Features**
+</div>
+
+---
+
+## 🚀 Featured Project
+
+# 🎓 EduKids
+
+**EduKids** is a gamified learning platform designed for primary school students.
+
+### ✨ Features
 
 - 📚 Learning Path
 - ⚔️ Boss Battle Quiz
 - 🐶 Virtual Pet
-- 🏆 Leaderboard
 - 🎯 Daily Missions
+- 🏆 Leaderboard
 - 👨‍🏫 Teacher Dashboard
 - 🔐 Firebase Authentication
 - ☁️ Cloud Firestore
@@ -85,20 +97,20 @@ A gamified learning platform designed to make learning fun for primary school st
 
 ---
 
-## 🎯 Goals
+## 🎯 2026 Goals
 
-- 🚀 Build impactful educational applications
-- 💡 Improve problem-solving skills
+- 🚀 Build better educational applications
+- 💡 Improve Competitive Programming skills
 - 🌍 Learn more about Full-Stack Development
-- ❤️ Contribute to open-source projects
+- ❤️ Contribute to Open Source
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/DixPahm">
+<a href="https://github.com/truongthicamhuong01-cmyk">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -108,8 +120,8 @@ A gamified learning platform designed to make learning fun for primary school st
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+*"Have a nice day :>>"*
 
 </div>
