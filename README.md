@@ -36,28 +36,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truongthicamhuong01-cmyk&theme=tokyonight" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=truongthicamhuong01-cmyk&theme=tokyonight" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=truongthicamhuong01-cmyk&theme=tokyonight" width="49%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=truongthicamhuong01-cmyk&theme=tokyonight" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truongthicamhuong01-cmyk&theme=tokyonight&utcOffset=7" width="49%" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
