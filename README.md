@@ -122,6 +122,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Have a nice day :>>"*
+*Have a nice day :>>*
 
 </div>
