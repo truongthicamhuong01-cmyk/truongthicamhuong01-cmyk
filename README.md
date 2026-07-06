@@ -98,8 +98,16 @@
 
 <div align="center">
 
-<a href="https://github.com/truongthicamhuong01-cmyk">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/truongthicamhuong01-cmyk" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+
+<a href="https://www.facebook.com/pham.tr.anh.vy" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="https://zalo.me/0359587847" target="_blank">
+  <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logoColor=white" alt="Zalo" />
 </a>
 
 </div>
