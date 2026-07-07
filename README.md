@@ -36,16 +36,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=truongthicamhuong01-cmyk&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
